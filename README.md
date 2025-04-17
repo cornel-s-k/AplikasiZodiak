@@ -1,6 +1,6 @@
-# ujicoba
+# UTS MOBILE LANJUT
 
-A new Flutter project.
+Aplikasi ramalan zodiak merupakan aplikasi dengan project flutter, dengan menambahkan nama user, dan tanggal lahir. Outputya ialah karakteristik zodiak dan bulan lahir. 
 
 ## Getting Started
 
